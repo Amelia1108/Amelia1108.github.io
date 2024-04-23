@@ -12,7 +12,7 @@ I'm now a master student from the University of Queensland and major in Electric
 
 Here is my CV:[Jiayi-Guo's CV](../assets/CV.pdf)
 
-AI and fastai:
+
 
 
 
