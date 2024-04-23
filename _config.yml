@@ -21,7 +21,7 @@ repository               : "Amelia1108/Amelia1108.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "[profile.png]"
+  avatar           : "profile.png"
   name             : "Jiayi Guo"
   location         : "Brisbane"
   email            : "ameliajiayi08@gmail.com" 
